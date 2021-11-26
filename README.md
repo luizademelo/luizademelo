@@ -1,16 +1,18 @@
-### Hi there 👋
+## Luiza Melo 
+### <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> Hi there!
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif"/> 
 
-<!--
-**scarface54/scarface54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I'm a 2nd year undergraduate from Universidade Federal de Minas Gerais (UFMG)
+- :bar_chart: I’m currently working on data science projects 
+- <img width=25 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif"> I'm a big fan of Clean Code
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarface54&theme=nightowl&show_icons=true"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Languages I love to work
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+
+## My blog
+<a href="https://devsizes.wordpress.com/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+
+## Connect with me! 
+<a href="https://www.linkedin.com/in/luiza-de-melo-245a18205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://medium.com/@luiza54"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> </a>
