@@ -22,4 +22,4 @@
 ---
 
 ## Social media
-<a href="https://www.linkedin.com/in/luiza-de-melo-245a18205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  </a> <a href="https://codeforces.com/profile/ludemelo5452"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"> </a>
+<a href="https://www.linkedin.com/in/luiza-de-melo-245a18205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  </a> <a href="https://codeforces.com/profile/ludemelo5452"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"> </a> <a href="https://www.instagram.com/luiza.tar/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
