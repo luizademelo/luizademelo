@@ -3,7 +3,7 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif"> 
 
-- 📚 I'm a 3rd year undergraduate from Universidade Federal de Minas Gerais (UFMG)
+- 📚 I'm a 4th year undergraduate from Universidade Federal de Minas Gerais (UFMG)
 - :bar_chart: I’m currently working on data science projects 
 - <img width=25 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif"> I'm a big fan of Clean Code
 - <img width=25 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif"> I love to upgrade my skills through competitive programming
